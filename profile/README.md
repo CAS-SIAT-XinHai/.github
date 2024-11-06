@@ -1,4 +1,8 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/3ae606b5-e619-4f31-923a-19583475c3ed)
+
+## CAS-SIAT-XinHai 👋
+
+XinHai stands for [Sea of Minds].
 
 <!--
 
