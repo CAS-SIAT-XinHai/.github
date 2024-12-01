@@ -9,8 +9,8 @@ XinHai stands for [Sea of Minds].
 * **[November. 2024]**: **[CPsyExam](https://github.com/CAS-SIAT-XinHai/CPsyExam)** has been accepted to **2025 COLING**!
 * **[September. 2024]**: **[CoEvol](https://github.com/lirenhao1997/CoEvol)** has been accepted to **2024 EMNLP**!
 * **[September. 2024]**: **DEFT** has been accepted to **2024 EMNLP** ***Findings***!
-* **[July. 2024]**: **[Aptness](https://github.com/CAS-SIAT-XinHai/APTNESS)** has been accepted to **2024 CIKM**!
-* **[May. 2024]**: **[NumCoT](https://github.com/CAS-SIAT-XinHai/NUMCoT)** has been accepted to **2024 ACL** ***Findings***!
+* **[July. 2024]**: **[APTNESS](https://github.com/CAS-SIAT-XinHai/APTNESS)** has been accepted to **2024 CIKM**!
+* **[May. 2024]**: **[NUMCoT](https://github.com/CAS-SIAT-XinHai/NUMCoT)** has been accepted to **2024 ACL** ***Findings***!
 * **[May. 2024]**: **[CPsyCoun](https://github.com/CAS-SIAT-XinHai/CPsyCoun)** has been accepted to **2024 ACL** ***Findings***!
 
 <!--
@@ -25,4 +25,4 @@ XinHai stands for [Sea of Minds].
 -->
 
 ## 🙋‍♀️About Us
-We are from [Min's Group](https://minyang.me/) of CAS-SIAT. 
+We are from [Min's Group](https://minyang.me/) at CAS-SIAT. 
