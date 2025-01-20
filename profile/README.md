@@ -6,6 +6,7 @@ XinHai stands for [Sea of Minds].
 
 ## 🔥News
 
+* **[January. 2025]**: **[CascadeRCG](https://github.com/CAS-SIAT-XinHai/CascadeRCG)** has been accepted to **2025 WWW** ***Short Paper***!
 * **[November. 2024]**: **[CPsyExam](https://github.com/CAS-SIAT-XinHai/CPsyExam)** has been accepted to **2025 COLING**!
 * **[September. 2024]**: **[CoEvol](https://github.com/lirenhao1997/CoEvol)** has been accepted to **2024 EMNLP**!
 * **[September. 2024]**: **DEFT** has been accepted to **2024 EMNLP** ***Findings***!
