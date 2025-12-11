@@ -6,6 +6,7 @@ XinHai stands for [Sea of Minds].
 
 ## 🔥News
 
+* **[December. 2025]**: **[《大语言模型在心理健康领域的应用综述》](https://github.com/CAS-SIAT-XinHai/awesome-ai-mental-health)** 已被[《集成技术》](https://jcjs.siat.ac.cn/)录用！
 * **[October. 2025]**: **[RxSafeBench](https://github.com/CAS-SIAT-XinHai/RxSafeBench)** has been accepted to **2025 BIBM** ***Short Paper***!
 * **[January. 2025]**: **[CascadeRCG](https://github.com/CAS-SIAT-XinHai/CascadeRCG)** has been accepted to **2025 WWW** ***Short Paper***!
 * **[November. 2024]**: **[CPsyExam](https://github.com/CAS-SIAT-XinHai/CPsyExam)** has been accepted to **2025 COLING**!
