@@ -10,11 +10,13 @@ XinHai stands for [Sea of Minds].
 * **[October. 2025]**: **[RxSafeBench](https://github.com/CAS-SIAT-XinHai/RxSafeBench)** has been accepted to **2025 BIBM** ***Short Paper***!
 * **[January. 2025]**: **[CascadeRCG](https://github.com/CAS-SIAT-XinHai/CascadeRCG)** has been accepted to **2025 WWW** ***Short Paper***!
 * **[November. 2024]**: **[CPsyExam](https://github.com/CAS-SIAT-XinHai/CPsyExam)** has been accepted to **2025 COLING**!
+* **[September. 2024]**: **[CollectiveSFT](https://github.com/CAS-SIAT-XinHai/CollectiveSFT)** has been accepted to **16th International Conference on Social Robotics (ICSR) + InnoBiz**!
 * **[September. 2024]**: **[CoEvol](https://github.com/lirenhao1997/CoEvol)** has been accepted to **2024 EMNLP**!
 * **[September. 2024]**: **DEFT** has been accepted to **2024 EMNLP** ***Findings***!
 * **[July. 2024]**: **[APTNESS](https://github.com/CAS-SIAT-XinHai/APTNESS)** has been accepted to **2024 CIKM**!
 * **[May. 2024]**: **[NUMCoT](https://github.com/CAS-SIAT-XinHai/NUMCoT)** has been accepted to **2024 ACL** ***Findings***!
 * **[May. 2024]**: **[CPsyCoun](https://github.com/CAS-SIAT-XinHai/CPsyCoun)** has been accepted to **2024 ACL** ***Findings***!
+* **[January. 2024]**: **[XinHai-at-CLPsych2024](https://github.com/CAS-SIAT-XinHai/XinHai-at-CLPsych2024)** has been accepted to **[CLPsych 2024](https://clpsych.org/program-2024/)** held in conjunction with EACL 2024!
 
 <!--
 
